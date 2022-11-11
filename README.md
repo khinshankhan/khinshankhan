@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**kkhan01/kkhan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**khinshan/khinshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [<img src="https://simpleicons.org/icons/homeassistant.svg" width="24" height="24"/>](https://khinshankhan.com/)
-[<img src="https://simpleicons.org/icons/github.svg" width="24" height="24"/>](https://github.com/kkhan01)
+[<img src="https://simpleicons.org/icons/github.svg" width="24" height="24"/>](https://github.com/khinshan)
 [<img src="https://simpleicons.org/icons/linkedin.svg" width="24" height="24"/>](https://linkedin.com/in/khinshankhan)
 [<img src="https://simpleicons.org/icons/discord.svg" width="24" height="24"/>](https://discordapp.com/users/356260437567995914/)
 [<img src="https://simpleicons.org/icons/rss.svg" width="24" height="24"/>](https://khinshankhan.com/feed.xml)
